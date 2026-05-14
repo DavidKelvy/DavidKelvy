@@ -1,45 +1,52 @@
-````md
+````md id="h4ck3r-m4th"
 <div align="center">
 
-# 📊✨ Bem-vindo ao Meu Perfil ✨📈
+# 💻⚡ DAVID.EXE ⚡💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%E2%88%91+%E2%88%AB+%CF%80+%CE%BC+%CF%83+%CE%BB+%E2%88%9E+%E2%88%9A;%F0%9D%93%9C%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%B1+%2B+Data+Science+%2B+Probability;%E2%88%82%2F%E2%88%82x+%7C+P(A%7CB)+%7C+f(x)+%7C+%CE%A3x_i;Transformando+dados+em+conhecimento+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=1000&lines=%3E+Initializing+system...;%3E+Loading+mathematical+engine...;%3E+%E2%88%91+%E2%88%AB+%CF%80+%CE%BC+%CF%83+%CE%BB+%E2%88%9E+%E2%88%9A;%3E+Python+%2B+Statistics+%2B+Data+Science;%3E+P(A%7CB)+%3D+P(A%E2%88%A9B)%2FP(B);%3E+e%5E(i%CF%80)+%2B+1+%3D+0;%3E+Access+Granted..." />
 
----
-
-```math
-\sum_{i=1}^{n} x_i \quad \int_{a}^{b} f(x)\,dx \quad P(A|B)
-````
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
-
-### 🧠 Estatística • Probabilidade • Machine Learning • Matemática
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:001100&height=120&section=header&text=WELCOME%20TO%20THE%20MATRIX&fontColor=00ff41&fontSize=35&animation=fadeIn" />
 
 </div>
 
 ---
 
-## ⚡ Linguagens e Ferramentas
+# 🧠 SYSTEM STATUS
+
+```bash
+✔ Python ................. ONLINE
+✔ R / Statistics ......... ONLINE
+✔ Machine Learning ....... ONLINE
+✔ Probability Theory ..... ONLINE
+✔ Data Analysis .......... ONLINE
+✔ Coffee Consumption ..... MAXIMUM
+````
+
+---
+
+# 📊 LIVE EQUATIONS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,rstudio,github,vscode,git" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=%CE%BC+%3D+E(X);%CF%83%C2%B2+%3D+Var(X);P(A%E2%88%A9B)+%3D+P(A)P(B);f(x)+%3D+ax%C2%B2%2Bbx%2Bc;%E2%88%82%2F%E2%88%82x;%E2%88%AB_a%5Eb+f(x)dx" />
 </p>
 
 ---
 
-## 🌌 Fórmulas Animadas
+# ⚙ TECHNOLOGIES
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00FFB3&center=true&vCenter=true&width=700&lines=y%3Dmx%2Bb;f(x)%3Dax%C2%B2%2Bbx%2Bc;P(A%E2%88%A9B)%3DP(A)P(B);e%5E%7Bi%CF%80%7D%2B1%3D0;%CF%83%C2%B2%3DE(X-%CE%BC)%C2%B2" />
-
+  <img src="https://skillicons.dev/icons?i=python,r,github,vscode,git,linux" />
 </p>
 
 ---
 
 <div align="center">
 
-### 📈 “Sem dados, você é apenas mais uma pessoa com opinião.”
+```txt
+01010011 01010100 01000001 01010100 01001001 01010011 01010100 01001001 01000011 01010011
+```
+
+### 📈 "In God we trust. All others must bring data."
 
 </div>
 ```
