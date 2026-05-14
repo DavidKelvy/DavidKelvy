@@ -46,7 +46,9 @@
 01010011 01010100 01000001 01010100 01001001 01010011 01010100 01001001 01000011 01010011
 ```
 
-### 📈 "In God we trust. All others must bring data."
+### 📈 “Estatística: a ciência que diz que se eu comi um frango e tu não comeste nenhum, teremos comido, em média, meio frango cada um.”
+
+Dino “Pitigrilli” Segrè
 
 </div>
 
