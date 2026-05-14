@@ -48,7 +48,7 @@
 
 ### 📈 “Estatística: a ciência que diz que se eu comi um frango e tu não comeste nenhum, teremos comido, em média, meio frango cada um.”
 
-Dino “Pitigrilli” Segrè
+### Dino “Pitigrilli” Segrè
 
 </div>
 
