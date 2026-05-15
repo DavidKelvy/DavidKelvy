@@ -5,8 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=1000&lines=%3E+Initializing+system...;%3E+Loading+mathematical+engine...;%3E+%E2%88%91+%E2%88%AB+%CF%80+%CE%BC+%CF%83+%CE%BB+%E2%88%9E+%E2%88%9A;%3E+Python+%2B+Statistics+%2B+Data+Science;%3E+P(A%7CB)+%3D+P(A%E2%88%A9B)%2FP(B);%3E+e%5E(i%CF%80)+%2B+1+%3D+0;%3E+Access+Granted..." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:001100&height=120&section=header&text=WELCOME%20TO%20THE%20MATRIX&fontColor=00ff41&fontSize=35&animation=fadeIn" />
-
 </div>
 
 ---
